@@ -9,8 +9,10 @@ Screenshots:
 If applicable, add screenshots to help explain your problem.
 
 What platform you use?:
+
 PC
-Console
+
+Console-
 
 Additional context:
 Add any other context about the problem here.
